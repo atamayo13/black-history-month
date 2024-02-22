@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Charles_Isbell.jpg/1200px-Charles_Isbell.jpg);
+
+    
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    background-color:khaki;
+
+  }
+
+  h2{
+color:
+  }
+
+  p{
+    background-color: black;
+    color: #fff;
+    opacity: .5;
+  }
+
+  .gallery{
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex:wrap;
+  }
